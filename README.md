@@ -26,7 +26,7 @@ viewers who grew up in that era, while also introducing younger audiences to a b
 The show's **suspenseful atmosphere** keeps you on the edge of your seat. The constant threat from the Upside Down,   
 combined with the government's secretive activities, creates a sense of unease and mystery that is truly captivating.
 
-![A group of kids riding their bikes in Stranger Things](https://www.indiewire.com/wp-content/uploads/2017/07/strangerthings2.jpg
+![A group of kids riding their bikes in Stranger Things](https://www.indiewire.com/wp-content/uploads/2017/07/strangerthings2.jpg)
 
 **Conclusion:**  
 Stranger Things is more than just a sci-fi horror series. It's a story about friendship, courage, and the power of facing your fears.   
