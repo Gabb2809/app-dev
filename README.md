@@ -1,13 +1,13 @@
 # app-dev
 My first repository
 
-## Stranger Things
+# Stranger Things
 
 Stranger Things is a Sci-Fi, Horror, Mystery, and Drama that has captivated audiences since its released in 2016.  
 Its Upside down, a terrifying alternate dimension, fuels the show's suspense. Also the heart of the story lies  
 in the enduring friendship between characters has left a lasting impression on me.
 
-### A world turned Upside Down
+## A world turned Upside Down
 
 The series centers around the fictional town of Hawkins, Indiana, where a shadowy government lab unwittingly opens   
 a portal to another dimension, known as the Upside Down. This dark and monstrous realm unleashes terrifying creatures   
